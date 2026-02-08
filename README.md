@@ -100,7 +100,7 @@ if __name__ == "__main__":
 
 <h3>OUTPUT:</h3>
 
-<img width="373" height="64" alt="image" src="<img width="994" height="113" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/eb392e60-ce66-4ac3-8b5e-64752c0244ba" />
+src="<img width="994" height="113" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/eb392e60-ce66-4ac3-8b5e-64752c0244ba" />
 
 <h3>RESULT</h3>
 
